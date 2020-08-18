@@ -15,4 +15,6 @@ import com.example.springbootmybatis.entity.Person;
 public interface PersonMapper {
 
     List<Person> selectAllPersons();
+
+    void udpateUser();
 }

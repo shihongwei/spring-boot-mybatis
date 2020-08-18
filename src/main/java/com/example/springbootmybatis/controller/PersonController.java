@@ -14,7 +14,7 @@ import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 
 /**
- * @Auther: shihongwei
+ * @author : shihongwei
  * @Date: 2018/6/26 19:11
  * @Description:
  */

@@ -9,6 +9,11 @@
         <result property="name" column="name"/>
     </resultMap>
 
+    <update id="udpateUser">
+
+
+    </update>
+
     <select id="selectAllPersons" resultType="com.example.springbootmybatis.entity.Person" resultMap="personResultMap">
         select id, name from person
     </select>
